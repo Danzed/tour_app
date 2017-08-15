@@ -101,3 +101,5 @@ include/
 
 # mypy
 .mypy_cache/
+
+.vscode
