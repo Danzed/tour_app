@@ -3,6 +3,8 @@
 
 API Rest en desarrollo para aplicación Tour App.
 
+[![Build Status](https://travis-ci.org/Danzed/tour_app.svg?branch=master)](https://travis-ci.org/Danzed/tour_app)
+
 ##Downloading and Running
 * Run `python manage.py migrate` to setup the database, and optionally follow the prompts to create a superuser (someone that can login to /admin)
 * Use the usual `python manage.py runserver [port]` to run the development server locally
